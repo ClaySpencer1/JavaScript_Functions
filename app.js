@@ -57,10 +57,10 @@ console.log("EXERCISE 2:\n==========\n");
 
 // EXERCISE 4
 //test if valid here first
-function validTriangle(side1, side2, side3){
-    return side1 + side2 > side3 ||  side1 + side3 > side2 || side2 + side3 > side1
+//function validTriangle(side1, side2, side3){
+ //   return side1 + side2 > side3 ||  side1 + side3 > side2 || side2 + side3 > side1
 
-}
+//}
  //   input a valid triangle below\\
  //function triangleType(side1, side2, side3){
  //   let isValid = validTriangle(side1, side2, side3);
